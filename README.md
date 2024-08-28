@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Paulo Rogerio Frnceschini Pizza and I'm a student from Brazil</p>
+<p align="left">My name is Paulo Rogerio Franceschini Pizza and I'm a student from Brazil</p>
 
 ###
 
