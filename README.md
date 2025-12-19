@@ -1,4 +1,4 @@
-#<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Hunting bugs since 2021<br>📚 I'm currently learning new technologies <br>🎯 Goals: Cybersecurity Specialist <br>🎲 Fun fact: Programming since age 12 </p>
 
 ###
 
